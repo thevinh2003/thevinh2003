@@ -47,16 +47,6 @@
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
 
-<br>
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
-
-<br>
-<div align=center>
-  <a href="#" title="TheVinh>
-    <img width="80%" align="center" src="/images/language_used.png" />
-  </a>
-
-</div>
 
 <br>
 <h2 align="center">👽 Contact 👽</h2>
@@ -65,19 +55,19 @@
 <div align="center">
 
   <a href="https://facebook.com/thevinh180603" target="blank">
-    <img src="https://icons8.com/icon/118562/facebook" alt="thevinh-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="thevinh-facebook" />
   </a>
   <a href="https://www.youtube.com/channel/UCFOXsfNwmwIRSG_lojhvpkg" target="blank">
-    <img src="https://icons8.com/icon/64159/youtube" alt="thevinh-youtube" />
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="thevinh-youtube" />
   </a>
   <a href="https://www.linkedin.com/in/thevinhphung/" target="blank">
-    <img src="https://icons8.com/icon/64154/linkedin" alt="thevinh-linkedin" />
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="thevinh-linkedin" />
   </a>
   <a href="https://instagram.com/vinhthe03" target="blank">
-    <img src="https://icons8.com/icon/hFoVFpm6gl9A/instagram" alt="thevinh-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="thevinh-instagram" />
   </a>
   <a href="mailto:vinhthe.contact@gmail.com" target="top">
-    <img src="https://icons8.com/icon/GNO9f2CARaea/mail" alt="thevinh-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="thevinh-email" />
   </a>
 </div>
 
