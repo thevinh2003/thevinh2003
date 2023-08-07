@@ -3,7 +3,7 @@
   <img src="svg/thevinh.svg" width="1200" alt="trungquandev-official" />
 </a>
 
-<h2 align="center">🛠 Technologies 🛠</h2>
+<h2 align="center">⌨ Technologies ⌨</h2>
 <br>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
@@ -44,12 +44,11 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
+<!-- <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span> -->
 &nbsp;
 
-
 <br>
-<h2 align="center">👽 Contact 👽</h2>
+<h2 align="center">📧 Contact 📧</h2>
 <br>
 
 <div align="center">
@@ -78,4 +77,3 @@
 <a href="#" target="_blank">
   <img src="svg/thevinh-quotes.svg" width="846" height="150" alt="trungquandev-official" />
 </a>
-
